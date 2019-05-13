@@ -16,6 +16,8 @@ Material para disciplina de Programação de Sistemas para a WEB I do curso de I
 
     3.2 Aprenda a programar - Luciano Ramalho - https://wiki.python.org.br/DocumentacaoPython?action=AttachFile&do=get&target=Aprenda_a_Programar-Luciano_Ramalho.pdf
 
+    3.3 Teste
+    
 ## Material desenvolvido em Aula
 Este repositório conterá todos os códigos implementados em sala de aula.
 
